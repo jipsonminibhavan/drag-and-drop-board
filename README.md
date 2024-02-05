@@ -10,4 +10,5 @@ Die Elemente in jeder Spalte werden als Arrays im lokalen Speicher gespeichert u
 Drag-and-Drop-Funktionalität ermöglicht es Benutzern, Elemente zwischen den Spalten zu verschieben.
 Benutzer können neue Elemente zu jeder Spalte hinzufügen, bestehende Elemente bearbeiten und die Änderungen speichern.
 Die Anwendung verwendet Event-Listener für Drag-and-Drop-Ereignisse und Klick-Events für das Hinzufügen und Speichern von Elementen.
-Es gibt Funktionen zum Erstellen von Elementen im DOM basierend auf den gespeicherten Daten, zum Aktualisieren des lokalen Speichers basierend auf den Änderungen und zum Verwalten der Drag-and-Drop-Logik.
+
+Hier ist der Link zur App https://fluffy-cupcake-2fddbc.netlify.app/ .
